@@ -1,8 +1,9 @@
 # 🔍 Spam URL Detection
 
-A machine learning-based project that detects whether a URL is **spam** or **legitimate** using URL-based features and classification models.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://monumental-scone-e528ab.netlify.app/)
 
----
+This project classifies whether a given URL is spam or not using a trained machine learning model...
+-----
 
 ## 🚀 Features
 
